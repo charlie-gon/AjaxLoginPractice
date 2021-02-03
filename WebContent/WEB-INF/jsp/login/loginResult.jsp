@@ -10,6 +10,6 @@
 
 
 	<h1>${message }</h1>
-
+	<!-- 참고: http://www.joshi.co.kr/index.php?mid=board_wUIV71&document_srl=306316 -->
 </body>
 </html>
